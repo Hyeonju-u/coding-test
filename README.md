@@ -1,5 +1,5 @@
 # 코테 연습장
-
+[![바로 풀어보기](https://img.shields.io/badge/▶_바로_풀어보기-2f6f5e?style=for-the-badge)](https://hyeonju-u.github.io/coding-test-practice/)
 Python / C 코딩 테스트 연습 페이지. 직접 짜고 → 막히면 힌트를 하나씩 → 그래도 막히면 답.
 
 ## 구조
